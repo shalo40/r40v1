@@ -1,0 +1,5 @@
+{
+    "require": {
+        "crocodicstudio/crudbooster": "5.6.*"
+    }
+}
